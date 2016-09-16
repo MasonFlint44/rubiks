@@ -1,0 +1,8 @@
+#define KBLK(msg) "\e[30m"msg"\e[0m"
+#define KRED(msg) "\e[31m"msg"\e[0m"
+#define KGRN(msg) "\e[32m"msg"\e[0m"
+#define KYEL(msg) "\e[33m"msg"\e[0m"
+#define KBLU(msg) "\e[34m"msg"\e[0m"
+#define KMAG(msg) "\e[35m"msg"\e[0m"
+#define KCYN(msg) "\e[36m"msg"\e[0m"
+#define KWHT(msg) "\e[37m"msg"\e[0m"
